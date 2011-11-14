@@ -1,0 +1,123 @@
+*** Customer Inquiry Results *** 
+
+Departure City :   Toronto
+Destination City:  Hamilton
+Time Preference:   A - Morning Flight
+Lowest Fare:       110
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+       Toronto    Hamilton       A101            845          915      110       15
+Departure City :   Hamilton
+Destination City:  Toronto
+Time Preference:   A - Morning Flight
+Lowest Fare:       110
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+Departure City :   Hamilton
+Destination City:  Montreal
+Time Preference:   A - Morning Flight
+Lowest Fare:       310
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston    Montreal       M101           1005         1050       95       25
+Departure City :   Hamilton
+Destination City:  Montreal
+Time Preference:   A - Morning Flight
+Lowest Fare:       310
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston    Montreal       M101           1005         1050       95       25
+Departure City :   Hamilton
+Destination City:  Ottawa
+Time Preference:   A - Morning Flight
+Lowest Fare:       330
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston      Ottawa       I101            910          955      115       20
+Departure City :   Hamilton
+Destination City:  Ottawa
+Time Preference:   A - Morning Flight
+Lowest Fare:       330
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston      Ottawa       I101            910          955      115       20
+Departure City :   Hamilton
+Destination City:  Kingston
+Time Preference:   A - Morning Flight
+Lowest Fare:       215
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Hamilton     Toronto       B101            925          955      110       20
+       Toronto    Kingston       F101            900         1015      105       25
+Departure City :   Montreal
+Destination City:  Kingston
+Time Preference:   A - Morning Flight
+Lowest Fare:       95
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Montreal    Kingston       G101            935         1020       95       35
+Departure City :   Kingston
+Destination City:  Hamilton
+Time Preference:   A - Morning Flight
+Lowest Fare:       215
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+      Kingston     Toronto       C101            810          925      105       15
+       Toronto    Hamilton       A101            845          915      110       15
+Departure City :   Ottawa
+Destination City:  Hamilton
+Time Preference:   A - Morning Flight
+Lowest Fare:       355
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+        Ottawa     Toronto       E101            735          905      245        2
+       Toronto    Hamilton       A101            845          915      110       15
+Departure City :   Toronto
+Destination City:  Ottawa
+Time Preference:   A - Morning Flight
+Lowest Fare:       220
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston      Ottawa       I101            910          955      115       20
+Departure City :   Toronto
+Destination City:  Ottawa
+Time Preference:   A - Morning Flight
+Lowest Fare:       220
+>>> Flight information and Options <<<
+
+Departing From Arriving At Flight No. Departure Time Arrival Time Air Fare Capacity
+============== =========== ========== ============== ============ ======== ========
+       Toronto    Kingston       F101            900         1015      105       25
+      Kingston      Ottawa       I101            910          955      115       20
