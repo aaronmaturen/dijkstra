@@ -1,5 +1,5 @@
 /****************************************************************************************/
-/* Programmer Name: Aaron Maturen  The awesomester!                                                     */
+/* Programmer Name: Aaron Maturen  The awesomest!                                                     */
 /* Course Title: CS316  Section: 1                                                      */
 /* Assignment No.: MP #5   Due Date: 12-05-09                                           */
 /* Instructor: Dr. Tai-Chi Lee                                                          */
