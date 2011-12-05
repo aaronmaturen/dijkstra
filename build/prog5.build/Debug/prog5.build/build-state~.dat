@@ -1,59 +1,0 @@
-Tprog5
-v7
-r0
-t280214524.765956
-cCheck dependencies
-cCompileC build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/main.o /Users/atmaturen/Desktop/prog5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-cLd /Users/atmaturen/Desktop/prog5/build/Debug/prog5 normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004ABBF0FD00000000000000EE
-t1253830909
-s238
-
-N/Users/atmaturen/Desktop/prog5/build/Debug/prog5
-t1258521724
-s28832
-
-N/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/main.o
-t1258521724
-s89708
-
-N/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/prog5.LinkFileList
-c000000004B03847B0000000000000060
-t1258521723
-s96
-
-N/Users/atmaturen/Desktop/prog5/main.cpp
-c000000004B03847B00000000000002DA
-t1258521723
-s730
-i<iostream>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies280214523#280214523#0(0"0(0#1#0"7947009927035180032#0"0#
-
-CCompileC build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/main.o /Users/atmaturen/Desktop/prog5/main.cpp normal x86_64 c++ com.apple.compilers.gcc.4_2
-s280214523.987346
-e280214524.322319
-r1
-xCompileC
-xbuild/prog5.build/Debug/prog5.build/Objects-normal/x86_64/main.o
-x/Users/atmaturen/Desktop/prog5/main.cpp
-xnormal
-xx86_64
-xc++
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@47"Compile /Users/atmaturen/Desktop/prog5/main.cpp280214524#280214524#0(0"0(0#0#39"/Users/atmaturen/Desktop/prog5/main.cpp3907004821821025792#1214"    cd /Users/atmaturen/Desktop/prog5    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D_GLIBCXX_DEBUG=1 -D_GLIBCXX_DEBUG_PEDANTIC=1 -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/prog5-generated-files.hmap -I/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/prog5-own-target-headers.hmap -I/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/prog5-all-target-headers.hmap -iquote /Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/prog5-project-headers.hmap -F/Users/atmaturen/Desktop/prog5/build/Debug -I/Users/atmaturen/Desktop/prog5/build/Debug/include -I/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/DerivedSources/x86_64 -I/Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/DerivedSources -c /Users/atmaturen/Desktop/prog5/main.cpp -o /Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/main.o0#
-
-CLd /Users/atmaturen/Desktop/prog5/build/Debug/prog5 normal x86_64
-s280214524.322394
-e280214524.765877
-r1
-xLd
-x/Users/atmaturen/Desktop/prog5/build/Debug/prog5
-xnormal
-xx86_64
-lSLF07#2@53"Link /Users/atmaturen/Desktop/prog5/build/Debug/prog5280214524#280214524#0(0"0(0#0#0"4300885448#450"    cd /Users/atmaturen/Desktop/prog5    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/atmaturen/Desktop/prog5/build/Debug -F/Users/atmaturen/Desktop/prog5/build/Debug -filelist /Users/atmaturen/Desktop/prog5/build/prog5.build/Debug/prog5.build/Objects-normal/x86_64/prog5.LinkFileList -mmacosx-version-min=10.6 -o /Users/atmaturen/Desktop/prog5/build/Debug/prog50#
-

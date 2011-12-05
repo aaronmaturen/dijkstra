@@ -1,1 +1,0 @@
-/Users/atmaturen/Desktop/prog5/fileManage.cpp:20: error: no 'bool dumpFile::openFlights()' member function declared in class 'dumpFile'
