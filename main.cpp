@@ -51,7 +51,7 @@ int main () {
     char capacity[4];
 
     while(infile){
-        infile >> arrival_city >> departure_city >> flight_id1 >> departure_time1 >> arrival_time1 >> flight_id2 >> departure_time2 >> arrival_time2 >> cost >> capacity;
+        infile >> departure_city >> arrival_city >> flight_id1 >> departure_time1 >> arrival_time1 >> flight_id2 >> departure_time2 >> arrival_time2 >> cost >> capacity;
         theseFlights.addFlight(flight_id1,departure_city,arrival_city,atoi(departure_time1),atoi(arrival_time1),atoi(cost),atoi(capacity));
         theseFlights.addFlight(flight_id2,departure_city,arrival_city,atoi(departure_time2),atoi(arrival_time2),atoi(cost),atoi(capacity));
     }
@@ -59,13 +59,15 @@ int main () {
     infile.close();
     infile.open("f09mp5.dat2");
     infile.clear();
-
-    cout << "*** Customer Inquiry Results *** " << endl << endl;
+    //debugging stuffs
+    //theseFlights.printCities();
+    cout << endl << endl;
+    theseFlights.printFlights();
+    cout << endl << endl << "*** Customer Inquiry Results *** " << endl << endl;
 
     while(infile){
-
         infile >> from >> to >> pref;
-        theseFlights.dijkstra(theseFlights.lookupCity(from), theseFlights.lookupCity(to), 'A');
+        theseFlights.dijkstra(theseFlights.lookupCity(from), theseFlights.lookupCity(to), pref);
     }
 
     infile.close();
